@@ -3,3 +3,5 @@
 def parrot(input="Squawk!)
      print `#{input}`
 end
+
+parrot();
