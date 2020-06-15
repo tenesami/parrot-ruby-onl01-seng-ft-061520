@@ -3,5 +3,3 @@
 def parrot(input="Squawk!")
    "#{input}"
 end
-
-parrot();
