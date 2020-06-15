@@ -7,4 +7,5 @@ def parrot(input="Squawk!")
     puts "#{input}"
   end
 end
+parrot();
 parrot("Pretty bird!");
