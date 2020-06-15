@@ -4,6 +4,6 @@ def parrot(input="Squawk!)
   if input == ""
     "Squawk!"
   else
-     "#{input}"
+     `#{input}`
   end
 end
