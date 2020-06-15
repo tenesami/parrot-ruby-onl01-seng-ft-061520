@@ -4,7 +4,7 @@ def parrot(input="Squawk!")
   if input == ""
     return "Squawk!"
   else
-    return "#{input}"
+    puts "#{input}"
   end
 end
 parrot("Pretty bird!");
