@@ -3,3 +3,4 @@
 def parrot(input="Squawk!")
    return "#{input}"
 end
+parrot("Squawk!", hi);
